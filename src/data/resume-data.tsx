@@ -23,7 +23,7 @@ export const RESUME_DATA = {
   name: "Aishee Guha Biswas",
   initials: "AGB",
   location: "Kolkata, India",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  locationLink: "https://www.google.com/maps/place/Kolkata",
   about:
     "CSIT engineer with a passion for pushing boundaries, fueled by the potential of AI and Machine Learning.",
   summary:
@@ -95,7 +95,7 @@ export const RESUME_DATA = {
         "The Smart Irrigation Predictor system concentrated on optimizing resource utilization in agricultural settings.",
       link: {
         label: "ai-irrigation",
-        href: "https://github.com/Aishee06/ai_irrigation_bg",
+        href: "https://github.com/RiddhiRaj/ai_irrigation_bg",
       },
     },
     {
@@ -106,6 +106,16 @@ export const RESUME_DATA = {
       link: {
          label: "handGestureMouse",
          href: "https://github.com/Aishee06/handGestureMouse",
+       },
+    },
+    {
+      title: "Attendance Checker Using Signature Verification",
+      techStack: ["Side Project", "HTML", "Tailwind CSS", "JS", "Flask", "scikit-learn", "numpy"],
+      description:
+        "Attendance Checker featuring a Signature Similarity Detector, integrating Flask, JavaScript, and ML libraries for signature image analysis, accompanied by HTML-Tailwind CSS interface.",
+      link: {
+         label: "attendanceChecker",
+         href: "https://github.com/Aishee06/AttendanceChecker2",
        },
     },
     {
