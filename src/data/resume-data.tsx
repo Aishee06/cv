@@ -109,7 +109,7 @@ export const RESUME_DATA = {
        },
     },
     {
-      title: "Attendance Checker Using Signature Verification",
+      title: "Attendance Tracking Through Signature Verification",
       techStack: ["Side Project", "HTML", "Tailwind CSS", "JS", "Flask", "scikit-learn", "numpy"],
       description:
         "Attendance Checker featuring a Signature Similarity Detector, integrating Flask, JavaScript, and ML libraries for signature image analysis, accompanied by HTML-Tailwind CSS interface.",
