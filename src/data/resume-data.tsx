@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "As a CS Engineer, I've found immense satisfaction in delving into the world of Machine Learning, where I've led and contributed to several hands-on projects. Even in my third year of engineering, I've eagerly seized every chance to engage in collaborative projects within my college community, setting a strong foundation for my future endeavors",
   avatarUrl: "https://i.postimg.cc/zB8YqWyC/Aishee.jpg",
-  personalWebsiteUrl: "https://google.com",
+  personalWebsiteUrl: "https://aishee-cv.netlify.app/",
   contact: {
     email: "aisheeguhabiswas04@gmail.com",
     tel: "",
@@ -135,8 +135,8 @@ export const RESUME_DATA = {
       description:
         "A modern website using Tailwind, HTML, TypeScript, showcasing my skills, projects and experience in a very minimal, resume-like style.",
       link: {
-        label: "ai-irrigation",
-        href: "https://github.com/RiddhiRaj/ai_irrigation_bg",
+        label: "cv",
+        href: "https://aishee-cv.netlify.app/",
       },
     },
     {
@@ -145,8 +145,8 @@ export const RESUME_DATA = {
       description:
         "A research study demonstrating the superiority of deep learning models like CNN and VGG16 over traditional methods for tomato image classification in agriculture.",
       link: {
-        label: "ai-irrigation",
-        href: "https://github.com/RiddhiRaj/ai_irrigation_bg",
+        label: "",
+        href: "",
       },
     },
   ],
