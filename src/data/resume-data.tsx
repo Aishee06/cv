@@ -28,10 +28,11 @@ export const RESUME_DATA = {
     "CSIT engineer with a passion for pushing boundaries, fueled by the potential of AI and Machine Learning.",
   summary:
     "As a CS Engineer, I've found immense satisfaction in delving into the world of Machine Learning, where I've led and contributed to several hands-on projects. Even in my third year of engineering, I've eagerly seized every chance to engage in collaborative projects within my college community, setting a strong foundation for my future endeavors",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  avatarUrl: "https://i.postimg.cc/zB8YqWyC/Aishee.jpg",
+  personalWebsiteUrl: "https://google.com",
   contact: {
     email: "aisheeguhabiswas04@gmail.com",
+    tel: "",
     social: [
       {
         name: "GitHub",
@@ -83,7 +84,7 @@ export const RESUME_DATA = {
     "Tailwind CSS","Flask",
     "MySql","Oracle",
     "Python","Scikit learn","Numpy","Panda","Tensorflow", "Keras", "PyTorch", "OpenCV",
-    "Google Cloud Platform for AI & Machine Learning",
+    "Google Cloud Platform for AIML",
     "Blender"
 
   ],
@@ -126,6 +127,26 @@ export const RESUME_DATA = {
       link: {
         label: "",
         href: "",
+      },
+    },
+    {
+      title: "Minimal Portfolio",
+      techStack: ["Side Project", "TypeScript", "React", "Tailwind CSS", "shadcn-ui", "Nextjs"],
+      description:
+        "A modern website using Tailwind, HTML, TypeScript, showcasing my skills, projects and experience in a very minimal, resume-like style.",
+      link: {
+        label: "ai-irrigation",
+        href: "https://github.com/RiddhiRaj/ai_irrigation_bg",
+      },
+    },
+    {
+      title: "AI In Agriculture: A Social Engineering Perspective",
+      techStack: ["Research Paper", "Python", "Kaggle", "Neural Networks", "Tensorflow", "scikit-learn", "OpenCV", "Pandas"],
+      description:
+        "A research study demonstrating the superiority of deep learning models like CNN and VGG16 over traditional methods for tomato image classification in agriculture.",
+      link: {
+        label: "ai-irrigation",
+        href: "https://github.com/RiddhiRaj/ai_irrigation_bg",
       },
     },
   ],
