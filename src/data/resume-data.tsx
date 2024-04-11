@@ -80,12 +80,11 @@ export const RESUME_DATA = {
   ],
   skills: [
     "HTML","CSS","JavaScript","C","C++","Java","Python",
-    "Latex",
     "Tailwind CSS","Flask",
     "MySql","Oracle",
-    "Python","Scikit learn","Numpy","Panda","Tensorflow", "Keras", "PyTorch", "OpenCV",
+    "Scikit learn","Numpy","Panda","Tensorflow", "Keras", "PyTorch", "OpenCV",
     "Google Cloud Platform for AIML",
-    "Blender"
+    "Blender","Latex"
 
   ],
   projects: [
