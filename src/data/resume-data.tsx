@@ -77,12 +77,21 @@ export const RESUME_DATA = {
       end: "August 7, 2023",
       description: "Explored the importance and historical context of space research and exploration, along with ISRO's contribution to it. Examined astrophysical principles encompassing celestial events, cosmic formations, and the dynamics of matter and energy in the cosmos. Additionally, delved into astrochemistry, investigating the chemical makeup of cosmic entities.",
     },
+    {
+      company: "Helpy Moto Pvt.Ltd",
+      link: "https://helpymoto.com/",
+      badges: [],
+      title: "Online Internship",
+      start: "April 13, 2024",
+      end: "July 13, 2024",
+      description: "Developed and presented innovative business strategies on futuristic concepts for car servicing, enhancing product understanding and potential market impact.",
+    },
   ],
   skills: [
-    "HTML","CSS","JavaScript","C","C++","Java","Python",
+    "Java","Python","C","HTML","CSS","JavaScript",
     "Tailwind CSS","Flask",
     "MySql","Oracle",
-    "Scikit learn","Numpy","Panda","Tensorflow", "Keras", "PyTorch", "OpenCV",
+    "Scikit learn","Numpy","Pandas","Tensorflow", "Keras", "PyTorch", "OpenCV",
     "Google Cloud Platform for AIML",
     "Blender","Latex"
 
