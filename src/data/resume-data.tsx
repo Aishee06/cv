@@ -89,14 +89,35 @@ export const RESUME_DATA = {
   ],
   skills: [
     "Java","Python","C","HTML","CSS","JavaScript",
-    "Tailwind CSS","Flask",
     "MySql","Oracle",
-    "Scikit learn","Numpy","Pandas","Tensorflow", "Keras", "PyTorch", "OpenCV",
+    "Scikit learn","Numpy","Pandas","Tensorflow", "Keras", "PyTorch", "OpenCV", "Matplotlib",
+    "HuggingFace Transformers", "Groq", "OctoAI",
+    "Streanlit","Langchain", "Tailwind CSS", "Flask",
     "Google Cloud Platform for AIML",
     "Blender","Latex"
 
   ],
   projects: [
+    {
+      title: "Groq with Llama3-8b Assistant",
+      techStack: ["Side Project", "Streamlit", "Langchain", "Groq API", "HuggingFace Embeddings", "Transformers", "FAISS"],
+      description:
+        "Developed a Retrieval-Augmented Generation (RAG) system using Streamlit, LangChain, Groq's Llama3 LLM, HuggingFace Embeddings and FAISS for intelligent document querying and answer generation from PDF content.",
+      link: {
+        label: "groq-llama3-assistant",
+        href: "https://github.com/Aishee06/groq-llama3-assistant.git",
+      },
+    },
+    {
+      title: "Gen-AI Assistant",
+      techStack: ["Side Project", "Streamlit", "OctoAI", "Google Gemini LLM", "Stable Diffusion XL"],
+      description:
+        "Developed a Streamlit-based AI Assistant utilizing Google Gemini-Pro, Stable Diffusion XL, and OctoAI for advanced chatbot interaction, image captioning, and text-to-image generation.",
+      link: {
+        label: "Gen-AI_Assistant",
+        href: "https://github.com/Aishee06/Gen-AI_Assistant.git",
+      },
+    },
     {
       title: "AI Irrigation System",
       techStack: ["Side Project", "Python", "Flask", "Tailwind CSS", "JS", "pandas", "scikit-learn"],
