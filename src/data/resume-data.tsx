@@ -81,7 +81,7 @@ export const RESUME_DATA = {
       company: "Helpy Moto Pvt.Ltd",
       link: "https://helpymoto.com/",
       badges: [],
-      title: "Online Internship",
+      title: "Remote Internship",
       start: "April 13, 2024",
       end: "July 13, 2024",
       description: "Developed and presented innovative business strategies on futuristic concepts for car servicing, enhancing product understanding and potential market impact.",
@@ -119,16 +119,6 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "AI Irrigation System",
-      techStack: ["Side Project", "Python", "Flask", "Tailwind CSS", "JS", "pandas", "scikit-learn"],
-      description:
-        "The Smart Irrigation Predictor system concentrated on optimizing resource utilization in agricultural settings.",
-      link: {
-        label: "ai-irrigation",
-        href: "https://github.com/RiddhiRaj/ai_irrigation_bg",
-      },
-    },
-    {
       title: "Hand Gesture Controlled Mouse",
       techStack: ["Side Project", "Machine Learning", "Python", "OpenCV", "Tensorflow"],
       description:
@@ -137,6 +127,16 @@ export const RESUME_DATA = {
          label: "handGestureMouse",
          href: "https://github.com/Aishee06/handGestureMouse",
        },
+    },
+    {
+      title: "AI Irrigation System",
+      techStack: ["Side Project", "Python", "Flask", "Tailwind CSS", "JS", "pandas", "scikit-learn"],
+      description:
+        "The Smart Irrigation Predictor system concentrated on optimizing resource utilization in agricultural settings.",
+      link: {
+        label: "ai-irrigation",
+        href: "https://github.com/RiddhiRaj/ai_irrigation_bg",
+      },
     },
     {
       title: "Attendance Tracking Through Signature Verification",
