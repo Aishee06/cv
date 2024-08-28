@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "CSIT engineer with a passion for pushing boundaries, fueled by the potential of AI and Machine Learning.",
   summary:
-    "As a CS Engineer, I've found immense satisfaction in delving into the world of Machine Learning, where I've led and contributed to several hands-on projects. Even in my third year of engineering, I've eagerly seized every chance to engage in collaborative projects within my college community, setting a strong foundation for my future endeavors",
+    "As a CS Engineer, I've found immense satisfaction in delving into the world of Machine Learning, where I've led and contributed to several hands-on projects. I've eagerly seized every chance to engage in collaborative projects within my college community, setting a strong foundation for my future endeavors",
   avatarUrl: "https://i.postimg.cc/zB8YqWyC/Aishee.jpg",
   personalWebsiteUrl: "https://aishee-cv.netlify.app/",
   contact: {
