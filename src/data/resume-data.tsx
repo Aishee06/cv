@@ -92,7 +92,7 @@ export const RESUME_DATA = {
     "MySql","Oracle",
     "Scikit learn","Numpy","Pandas","Tensorflow", "Keras", "PyTorch", "OpenCV", "Matplotlib",
     "HuggingFace Transformers", "Groq", "OctoAI",
-    "Streanlit","Langchain", "Tailwind CSS", "Flask",
+    "Streamlit","Langchain", "Tailwind CSS", "Flask",
     "Google Cloud Platform for AIML",
     "Blender","Latex"
 
