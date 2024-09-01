@@ -99,6 +99,16 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "Finetuned Llama2-7b using LoRA and QLoRA",
+      techStack: ["Side Project", "Finetuning", "Llama2", "Finetuning LLMs", "LoRA", "HuggingFace Transformers", "QLoRA", "Transformer Reinforcement Learning", "Supervised Fine Tuning"],
+      description:
+        "Fine-tuned Llama2 model using LoRA and QLoRA techniques, optimizing its performance for specific downstream tasks by leveraging supervised learning and reinforcement learning.",
+      link: {
+        label: "Finetuned_Llama2-7b_using_LoRA_and_QLoRA",
+        href: "https://github.com/Aishee06/Finetuned_Llama2-7b_using_LoRA_and_QLoRA.git",
+      },
+    },
+    {
       title: "Groq with Llama3-8b Assistant",
       techStack: ["Side Project", "Streamlit", "Langchain", "Groq API", "HuggingFace Embeddings", "Transformers", "FAISS"],
       description:
