@@ -91,7 +91,7 @@ export const RESUME_DATA = {
     "Java","Python","C","HTML","CSS","JavaScript",
     "MySql","Oracle",
     "Scikit learn","Numpy","Pandas","Tensorflow", "Keras", "PyTorch", "OpenCV", "Matplotlib",
-    "HuggingFace Transformers", "Groq", "OctoAI",
+    "HuggingFace Transformers", "OpenAI Gymnasium", "Groq", "OctoAI",
     "Streamlit","Langchain", "Tailwind CSS", "Flask",
     "Google Cloud Platform for AIML",
     "Blender","Latex"
