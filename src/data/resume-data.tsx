@@ -91,7 +91,7 @@ export const RESUME_DATA = {
     "Java","Python","C","HTML","CSS","JavaScript",
     "MySql","Oracle",
     "Scikit learn","Numpy","Pandas","Tensorflow", "Keras", "PyTorch", "OpenCV", "Matplotlib",
-    "HuggingFace Transformers", "OpenAI Gymnasium", "Groq", "OctoAI",
+    "HuggingFace Transformers", "OpenAI Gymnasium", "Groq", "OctoAI", "EasyOCR",
     "Streamlit","Langchain", "Tailwind CSS", "Flask",
     "Google Cloud Platform for AIML",
     "Blender","Latex"
@@ -100,7 +100,7 @@ export const RESUME_DATA = {
   projects: [
     {
       title: "Finetuned Llama2-7b using LoRA and QLoRA",
-      techStack: ["Side Project", "Finetuning", "Llama2", "Finetuning LLMs", "LoRA", "HuggingFace Transformers", "QLoRA", "Transformer Reinforcement Learning", "Supervised Fine Tuning"],
+      techStack: ["Personal Project", "Finetuning", "Llama2", "Finetuning LLMs", "LoRA", "HuggingFace Transformers", "QLoRA", "Transformer Reinforcement Learning", "Supervised Fine Tuning"],
       description:
         "Fine-tuned Llama2 model using LoRA and QLoRA techniques, optimizing its performance for specific downstream tasks by leveraging supervised learning and reinforcement learning.",
       link: {
@@ -110,7 +110,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Groq with Llama3-8b Assistant",
-      techStack: ["Side Project", "Streamlit", "Langchain", "Groq API", "HuggingFace Embeddings", "Transformers", "FAISS"],
+      techStack: ["Personal Project", "Streamlit", "Langchain", "Groq API", "HuggingFace Embeddings", "Transformers", "FAISS"],
       description:
         "Developed a Retrieval-Augmented Generation (RAG) system using Streamlit, LangChain, Groq's Llama3 LLM, HuggingFace Embeddings and FAISS for intelligent document querying and answer generation from PDF content.",
       link: {
@@ -120,7 +120,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Gen-AI Assistant",
-      techStack: ["Side Project", "Streamlit", "OctoAI", "Google Gemini LLM", "Stable Diffusion XL"],
+      techStack: ["Personal Project", "Streamlit", "OctoAI", "Google Gemini LLM", "Stable Diffusion XL"],
       description:
         "Developed a Streamlit-based AI Assistant utilizing Google Gemini-Pro, Stable Diffusion XL, and OctoAI for advanced chatbot interaction, image captioning, and text-to-image generation.",
       link: {
@@ -130,7 +130,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Hand Gesture Controlled Mouse",
-      techStack: ["Side Project", "Machine Learning", "Python", "OpenCV", "Tensorflow"],
+      techStack: ["Group Project", "Machine Learning", "Python", "OpenCV", "Tensorflow"],
       description:
         "An Interactive Human-Computer Interaction (HCI) system enabling users to manipulate their computer's mouse pointer through specific hand gestures.",
       link: {
@@ -140,7 +140,7 @@ export const RESUME_DATA = {
     },
     {
       title: "AI Irrigation System",
-      techStack: ["Side Project", "Python", "Flask", "Tailwind CSS", "JS", "pandas", "scikit-learn"],
+      techStack: ["Group Project", "Python", "Flask", "Tailwind CSS", "JS", "pandas", "scikit-learn"],
       description:
         "The Smart Irrigation Predictor system concentrated on optimizing resource utilization in agricultural settings.",
       link: {
@@ -150,7 +150,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Attendance Tracking Through Signature Verification",
-      techStack: ["Side Project", "HTML", "Tailwind CSS", "JS", "Flask", "scikit-learn", "numpy"],
+      techStack: ["Group Project", "HTML", "Tailwind CSS", "JS", "Flask", "scikit-learn", "numpy"],
       description:
         "Attendance Checker featuring a Signature Similarity Detector, integrating Flask, JavaScript, and ML libraries for signature image analysis, accompanied by HTML-Tailwind CSS interface.",
       link: {
@@ -159,18 +159,8 @@ export const RESUME_DATA = {
        },
     },
     {
-      title: "Habitable Exoplanets",
-      techStack: ["NASA Space Apps Challenge 2023", "GenAI", "Canva"],
-      description:
-        "Made an exoplanet travel bureau, authored an extensive illustrated concept paper, designed a user-friendly interface (UI/UX) for an e-commerce platform, and created a corresponding video presentation.",
-      link: {
-        label: "",
-        href: "",
-      },
-    },
-    {
       title: "Minimal Portfolio",
-      techStack: ["Side Project", "TypeScript", "React", "Tailwind CSS", "shadcn-ui", "Nextjs"],
+      techStack: ["Personal Project", "TypeScript", "React", "Tailwind CSS", "shadcn-ui", "Nextjs"],
       description:
         "A modern website using Tailwind, HTML, TypeScript, showcasing my skills, projects and experience in a very minimal, resume-like style.",
       link: {
@@ -179,13 +169,13 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "AI In Agriculture: A Social Engineering Perspective",
-      techStack: ["Research Paper", "Python", "Kaggle", "Neural Networks", "Tensorflow", "scikit-learn", "OpenCV", "Pandas"],
+      title: "Extracting text from Images using EasyOCR(Amazon ML Hackathon 2024)",
+      techStack: ["Group Project", "numpy", "EasyOCR", "regex", "matplotlib", "tqdm", "cv2"],
       description:
-        "A research study demonstrating the superiority of deep learning models like CNN and VGG16 over traditional methods for tomato image classification in agriculture.",
+        "Extracted numerical values and units from images using EasyOCR, regex, custom preprocessing, developing a robust pipeline for entity recognition tasks.",
       link: {
-        label: "",
-        href: "",
+        label: "easyocr_text_extraction",
+        href: "https://github.com/Aishee06/easyocr_text_extraction",
       },
     },
   ],
