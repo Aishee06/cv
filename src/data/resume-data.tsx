@@ -92,12 +92,52 @@ export const RESUME_DATA = {
     "MySql","Oracle",
     "Scikit learn","Numpy","Pandas","Tensorflow", "Keras", "PyTorch", "OpenCV", "Matplotlib",
     "HuggingFace Transformers", "OpenAI Gymnasium", "Groq", "OctoAI", "EasyOCR",
-    "Streamlit","Langchain", "Tailwind CSS", "Flask",
-    "Google Cloud Platform for AIML",
+    "Streamlit","Langchain", "Diffusers", "LoRA & QLoRA", "Tailwind CSS", "Flask",
+    "Google Cloud Platform for AIML", "Google Colab",
     "Blender","Latex"
 
   ],
   projects: [
+    {
+      title: "Lunar Lander AI with NEAT-Python",
+      techStack: ["Personal Project", "NEAT", "OpenAI Gymnasium", "Miniconda", "Python", "Matplotlib", "Networkx"],
+      description:
+        "Developed an AI using NEAT to control Lunar Lander from Gymnasium, evolving neural networks for soft landings.",
+      link: {
+        label: "LunarLander_AI",
+        href: "https://github.com/Aishee06/LunarLander_AI",
+      },
+    },
+    {
+      title: "KanjiGen AI: Generate Kanji Characters from English Descriptions",
+      techStack: ["Personal Project", "PyTorch", "HuggingFace Transformers ", "Diffusers", "LoRA", "Tensorboard"],
+      description:
+        "Developed KanjiGen AI using Stable Diffusion fine-tuned with LoRA to generate novel Kanji characters from English descriptions. Integrated text and image inputs, leveraging deep learning for AI-generated art.",
+      link: {
+        label: "Text-to-KanjiGen-AI",
+        href: "https://github.com/Aishee06/Text-to-KanjiGen-AI",
+      },
+    },
+    {
+      title: "Multi-Agent Debate for Improving Factuality and Reasoning in Language Models",
+      techStack: ["Personal Project", "WizardMath-7B-v1.1", "GSM8K", "PyTorch", "Transformers", "Matplotlib"],
+      description:
+        "Developed a Multi-Agent Debate system where AI agents debate math problems to improve factuality and reasoning. Fine-tuned WizardMath-7B on GSM8K dataset, leveraging collaborative AI for enhanced accuracy.",
+      link: {
+        label: "MultiAgent_Debate",
+        href: "https://github.com/Aishee06/MultiAgent_Debate",
+      },
+    },
+    {
+      title: "Character-Level Language Model using nanoGPT",
+      techStack: ["Personal Project", "enwik8", "PyTorch", "Transformers", "nanoGPT"],
+      description:
+        "Developed a character-level language model using nanoGPT, trained on the enwik8 dataset. Implemented and compared a baseline GPT model with a modified version using Multi-Scale Positional Encodings, evaluating performance based on bits per character.",
+      link: {
+        label: "Character_Level_Transformer",
+        href: "https://github.com/Aishee06/Character_Level_Transformer",
+      },
+    },
     {
       title: "Finetuned Llama2-7b using LoRA and QLoRA",
       techStack: ["Personal Project", "Finetuning", "Llama2", "Finetuning LLMs", "LoRA", "HuggingFace Transformers", "QLoRA", "Transformer Reinforcement Learning", "Supervised Fine Tuning"],
