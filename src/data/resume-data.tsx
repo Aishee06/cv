@@ -189,6 +189,16 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Music Recommendation System",
+      techStack: ["Personal Project", "Streamlit", "Pandas", "Python"],
+      description:
+        "Developed a personalized music recommendation system using Python, Streamlit, and Pandas, implementing content-based filtering to suggest similar tracks based on user preferences.",
+      link: {
+        label: "Music-Recommendation",
+        href: "https://github.com/Aishee06/Music-Recommendation.git",
+      },
+    },
+    {
       title: "Attendance Tracking Through Signature Verification",
       techStack: ["Group Project", "HTML", "Tailwind CSS", "JS", "Flask", "scikit-learn", "numpy"],
       description:
