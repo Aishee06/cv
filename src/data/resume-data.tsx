@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Kolkata, India",
   locationLink: "https://www.google.com/maps/place/Kolkata",
   about:
-    "CSIT engineer with a passion for pushing boundaries, fueled by the potential of AI and Machine Learning.",
+    "You need to be different, to be stellar🚀",
   summary:
     "As a CS Engineer, I've found immense satisfaction in delving into the world of Machine Learning, where I've led and contributed to several hands-on projects. I've eagerly seized every chance to engage in collaborative projects within my college community, setting a strong foundation for my future endeavors",
   avatarUrl: "https://i.postimg.cc/zB8YqWyC/Aishee.jpg",
@@ -90,11 +90,9 @@ export const RESUME_DATA = {
   skills: [
     "Python","Java","C","HTML","CSS","JavaScript",
     "MySql","Oracle",
-    "Scikit learn","Numpy","Pandas","Tensorflow", "Keras", "PyTorch", "OpenCV", "Matplotlib",
-    "HuggingFace Transformers", "OpenAI Gymnasium", "Groq", "OctoAI", "EasyOCR",
-    "Streamlit","Langchain", "Diffusers", "LoRA & QLoRA", "Tailwind CSS", "Flask",
-    "Google Cloud Platform for AIML", "Google Colab",
-    "Blender","Latex"
+    "Scikit learn","Numpy","Pandas", "Tensorflow", "Keras", "PyTorch", "XGBoost", "OpenCV", "Matplotlib",
+    "HuggingFace Transformers", "OpenAI Gymnasium", "Groq", "OctoAI", "EasyOCR", "Streamlit","Langchain", 
+    "Diffusers", "LoRA & QLoRA", "Tailwind CSS", "Flask", "Google Colab", "Blender","Latex"
 
   ],
   projects: [
@@ -226,6 +224,16 @@ export const RESUME_DATA = {
       link: {
         label: "easyocr_text_extraction",
         href: "https://github.com/Aishee06/easyocr_text_extraction",
+      },
+    },
+    {
+      title: "Credit Risk Prediction for Loan Applicants",
+      techStack: ["Personal Project", "streamlit", "pandas", "numpy", "scikit-learn", "xgboost"],
+      description:
+        "A machine learning-powered Streamlit web app that predicts whether a loan applicant is a good or bad credit risk based on their financial and personal details.",
+      link: {
+        label: "Credit_Risk_Prediction_for_Loan_Applicants",
+        href: "https://github.com/Aishee06/Credit_Risk_Prediction_for_Loan_Applicants",
       },
     },
   ],
