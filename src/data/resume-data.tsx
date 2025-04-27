@@ -88,7 +88,7 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "Python","Java","C","HTML","CSS","JavaScript",
+    "Python","Java","HTML","CSS","JavaScript",
     "MySql","Oracle",
     "Scikit learn","Numpy","Pandas", "Tensorflow", "Keras", "PyTorch", "XGBoost", "OpenCV", "Matplotlib",
     "HuggingFace Transformers", "OpenAI Gymnasium", "Groq", "OctoAI", "EasyOCR", "Streamlit","Langchain", 
