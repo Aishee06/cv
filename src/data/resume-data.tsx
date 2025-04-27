@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "You need to be different, to be stellar🚀",
   summary:
-    "As a CS Engineer, I've found immense satisfaction in delving into the world of Machine Learning, where I've led and contributed to several hands-on projects. I've eagerly seized every chance to engage in collaborative projects within my college community, setting a strong foundation for my future endeavors",
+    "Welcome to my profile! I am Aishee Guha Biswas, driven by curiosity and determination. Always learning, always evolving. With a sharp, rational mindset, I am constantly refining my skills and embracing new challenges. Growth drives me, progress fuels me!",
   avatarUrl: "https://i.postimg.cc/zB8YqWyC/Aishee.jpg",
   personalWebsiteUrl: "https://aishee-cv.netlify.app/",
   contact: {
