@@ -54,16 +54,16 @@ export const RESUME_DATA = {
       end: "2025",
     },
     {
+      school: "DAV School, Siliguri",
+      degree: "CBSE Class 12, specializing in Pure Science with Computer Science as an additional subject",
+      start: "2019",
+      end: "2021",
+    },
+    {
       school: "Don Bosco School, Oodlabari",
       degree: "ICSE Class 10, specializing in Science with Computer Science and Mathematics as major subjects",
       start: "2008",
       end: "2019",
-    },
-    {
-      school: "DAV School,Siliguri",
-      degree: "CBSE Class 12, specializing in Pure Science with Computer Science as an additional subject",
-      start: "2019",
-      end: "2021",
     },
     
   ],
