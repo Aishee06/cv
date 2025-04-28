@@ -22,7 +22,7 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Aishee Guha Biswas",
   initials: "AGB",
-  location: "Kolkata, India",
+  location: "Kolkata, West Bengal, India",
   locationLink: "https://www.google.com/maps/place/Kolkata",
   about:
     "You need to be different, to be stellar🚀",
