@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "You need to be different, to be stellar🚀",
   summary:
     "Welcome to my profile! I am Aishee Guha Biswas, driven by curiosity and determination. Always learning, always evolving. With a sharp, rational mindset, I am constantly refining my skills and embracing new challenges. Growth drives me, progress fuels me!",
-  avatarUrl: "/public/images/ProfilePic.jpg",
+  avatarUrl: "/ProfilePic.jpg",
   personalWebsiteUrl: "https://aishee-cv.netlify.app/",
   contact: {
     email: "aisheeguhabiswas04@gmail.com",
