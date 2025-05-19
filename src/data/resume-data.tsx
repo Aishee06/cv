@@ -48,7 +48,7 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "University of Engineering and Management, Kolkata",
+      school: "University of Engineering and Management, Kolkata (SGPA: 9.48)",
       degree: "B.Tech in Computer Science and Information Technology",
       start: "2021",
       end: "2025",
@@ -69,15 +69,6 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "ISRO",
-      link: "https://www.isro.gov.in",
-      badges: [],
-      title: "Online Training Programme",
-      start: "July 20, 2023",
-      end: "August 7, 2023",
-      description: "Explored the importance and historical context of space research and exploration, along with ISRO's contribution to it. Examined astrophysical principles encompassing celestial events, cosmic formations, and the dynamics of matter and energy in the cosmos. Additionally, delved into astrochemistry, investigating the chemical makeup of cosmic entities.",
-    },
-    {
       company: "Helpy Moto Pvt.Ltd",
       link: "https://helpymoto.com/",
       badges: [],
@@ -85,6 +76,15 @@ export const RESUME_DATA = {
       start: "April 13, 2024",
       end: "July 13, 2024",
       description: "Developed and presented innovative business strategies on futuristic concepts for car servicing, enhancing product understanding and potential market impact.",
+    },
+    {
+      company: "ISRO",
+      link: "https://www.isro.gov.in",
+      badges: [],
+      title: "Online Training Programme",
+      start: "July 20, 2023",
+      end: "August 7, 2023",
+      description: "Explored the importance and historical context of space research and exploration, along with ISRO's contribution to it. Examined astrophysical principles encompassing celestial events, cosmic formations, and the dynamics of matter and energy in the cosmos. Additionally, delved into astrochemistry, investigating the chemical makeup of cosmic entities.",
     },
   ],
   skills: [
