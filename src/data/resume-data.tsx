@@ -48,7 +48,7 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "University of Engineering and Management, Kolkata (SGPA: 9.48)",
+      school: "University of Engineering and Management, Kolkata (CGPA: 9.48)",
       degree: "B.Tech in Computer Science and Information Technology",
       start: "2021",
       end: "2025",
